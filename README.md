@@ -1,6 +1,6 @@
 # Restaurant HTML & CSS Website Template
 
-![Template Preview](./preview.png)
+![40511-bcss](https://github.com/udabasili/restaurant-template/assets/33573587/822428ee-d79c-40a5-b839-b347753f9d54)
 
 ## Overview
 
@@ -22,7 +22,7 @@ This open-source Restaurant Website Template is designed to provide a stylish an
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/restaurant-website-template.git
+   git clone https://github.com/udabasili/restaurant-template.git
    ```
 
 2. **Customize:**
@@ -44,7 +44,7 @@ We welcome contributions! If you'd like to enhance this template, please follow 
 
 ## Support and Feedback
 
-For questions, issues, or suggestions, please [open an issue](https://github.com/your-username/restaurant-website-template/issues).
+For questions, issues, or suggestions, please [open an issue](https://github.com/udabasili/restaurant-template/issues).
 
 ## License
 
@@ -59,5 +59,3 @@ This project is licensed under the [MIT License](LICENSE).
 If you find this template useful, give it a ⭐️ on GitHub and share it with fellow restaurateurs.
 
 ---
-
-Remember to replace placeholders like `your-username`, add your own demo link, and update the Acknowledgments section with appropriate credits. Additionally, include a preview image (`preview.png` in this example) showcasing your template in action.
