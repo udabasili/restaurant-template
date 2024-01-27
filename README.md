@@ -1,54 +1,63 @@
-# Responsive  Charity Website Template
+# Restaurant HTML & CSS Website Template
 
-## [🌐 Visit Site](https://udabasili.github.io/charity-website-template/)
-
-![41078-bcss](https://github.com/udabasili/charity-website-template/assets/33573587/1d3e4620-c2ee-49d0-a4a2-1573609e98b5)
-![41078-m](https://github.com/udabasili/charity-website-template/assets/33573587/a4c338ee-b79f-4ae2-b6f6-8f9ac1ae96ab)
-![41078-rs](https://github.com/udabasili/charity-website-template/assets/33573587/552f74c7-c773-44fe-93ad-c6b921141de6)
+![Template Preview](./preview.png)
 
 ## Overview
 
-This open-source Charity Website Template is designed to help non-profit organizations and charities create a professional online presence. Whether you're looking to raise funds, share your mission, or engage with supporters, this template provides a solid foundation for your charity website.
+This open-source Restaurant Website Template is designed to provide a stylish and functional web presence for restaurants and cafes. With a clean and responsive design, it offers an easy-to-customize solution for showcasing your menu, accepting reservations, and engaging with your customers.
+
+**Live Demo:** [Your Restaurant Website Demo](https://udabasili.github.io/restaurant-template/)
 
 ## Features
 
-- ✨ Responsive Design: Ensure your website looks great on all devices, from desktops to smartphones.
-
-- 🎨 Customizable: Easily customize the template to match your organization's branding and unique style.
-
-- 💳 Donation Integration: Seamlessly integrate donation forms to collect funds securely online.
-
-- 📅 Event Calendar: Keep supporters informed about upcoming events and activities.
-
-- 📰 News and Blog Section: Share updates, success stories, and news to keep your community engaged.
-
-- 📷 Gallery: Showcase impactful images and videos to tell your organization's story visually.
-
-- 📧 Contact Form: Provide an easy way for visitors to get in touch with your team.
+- **Responsive Design:** Ensures an optimal viewing experience across various devices.
+- **Menu Showcase:** Display your culinary offerings with enticing visuals and detailed descriptions.
+- **Reservation System:** Allow customers to book tables online for a seamless dining experience.
+- **Gallery:** Showcase the ambiance, dishes, and special moments within your restaurant.
+- **Blog Section:** Share culinary insights, recipes, and updates to keep customers engaged.
+- **Contact Form:** Provide an easy way for customers to reach out for inquiries and feedback.
 
 ## Getting Started
 
-- Clone the Repository:
+1. **Clone the Repository:**
 
-```bash
-Copy code
-git clone <https://github.com/udabasili/charity-website-template.git>
-```
+   ```bash
+   git clone https://github.com/your-username/restaurant-website-template.git
+   ```
 
-- Customize:
-Edit the HTML, CSS, and JavaScript files to tailor the template to your charity's needs.
+2. **Customize:**
+   Edit HTML and CSS files to match your restaurant's branding and customize content accordingly.
 
-- Deploy:
-Host your website on platforms like GitHub Pages, Netlify, or Vercel for easy access.
+3. **Deploy:**
+   Host your website on platforms like GitHub Pages, Netlify, or Vercel for easy accessibility.
 
-- How to Contribute
-We welcome contributions! If you'd like to improve this template, please follow our contribution guidelines.
+## Usage
 
-- Support and Feedback
-For questions, issues, or suggestions, please open an issue.
+1. Explore the project structure.
+2. Edit `index.html` for main content and structure changes.
+3. Customize styles in the `styles.css` file.
+4. Integrate with your backend or use client-side scripts for dynamic functionalities.
 
-- License
-This project is licensed under the MIT License.
+## How to Contribute
 
-Spread the Word
-If you find this template helpful, please consider giving it a ⭐️ on GitHub and sharing it with others who might benefit.
+We welcome contributions! If you'd like to enhance this template, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## Support and Feedback
+
+For questions, issues, or suggestions, please [open an issue](https://github.com/your-username/restaurant-website-template/issues).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- [Unsplash](https://unsplash.com) for providing stunning royalty-free images.
+
+## Spread the Word
+
+If you find this template useful, give it a ⭐️ on GitHub and share it with fellow restaurateurs.
+
+---
+
+Remember to replace placeholders like `your-username`, add your own demo link, and update the Acknowledgments section with appropriate credits. Additionally, include a preview image (`preview.png` in this example) showcasing your template in action.
