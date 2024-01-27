@@ -1,0 +1,83 @@
+.tabs {
+	margin:10px 30px 10px 10px;
+    position:relative;
+	display:block;
+}
+
+.tabs ul.nav {
+	list-style-image:none;
+	margin:0px 0 0px 0px;
+	display:block;
+	overflow:hidden;
+	float:left;
+	
+	border-radius:20px 20px 20px 20px;
+	-moz-border-radius:20px 20px 20px 20px;
+	-webkit-border-radius:20px 20px 20px 20px;
+
+	width:233px;
+	height:388px;
+	z-index:100;
+	
+background:url(../images/cont_plane2.png) no-repeat 0 0;
+}
+.tabs ul.nav li {
+    background: url("../images/menu_bottom_line.png") repeat-x  0 top;
+	width:200px;
+	text-align:center;
+	margin-left:12px;
+
+}
+
+.tabs ul.nav li:first-child{margin-top:10px;
+background:none}
+.tabs ul.nav li a {
+	position: relative;
+display: inline-block;
+font-family: 'Acme', sans-serif;
+font-size:14px;
+line-height:26px;
+margin:5px 0;
+color: #fff;
+text-transform: uppercase;
+overflow: hidden;
+display:inline-block;
+
+}
+.tabs ul.nav li.selected {
+
+}
+.tabs ul.nav li.selected a {
+	background:#000;
+	width:100%;
+
+}
+.tabs ul.nav li:hover {
+
+}
+.tabs ul.nav li:hover a {
+	background:#000;
+	width:100%;
+	
+
+}
+.b1{background:url(../images/p4_line1.png) no-repeat 0 bottom;
+padding:10px 0}
+
+.aligncenter {
+	
+}
+
+.tabs_cont {
+	display:inline-block;
+width: 630px;
+float:right;
+
+z-index:20;
+position:relative;z
+}
+
+.tab-content {
+width: 630px
+}
+

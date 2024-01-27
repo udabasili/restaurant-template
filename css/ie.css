@@ -1,0 +1,11 @@
+/* -----------------for pie------------------- */
+.plane1,.bg,.imStyle1,.list1>li,.list3>li,.cont_plane2,#form1 input,
+#form1 textarea{position: relative; behavior: url(js/PIE.htc); }
+.decor>span>strong{position: absolute; behavior: url(js/PIE.htc); }
+
+.submenu_1{position: absolute; behavior: url(js/PIE.htc); }
+
+.a1{position: relative; behavior: url(js/PIE.htc); }
+.a3{position: relative; behavior: url(js/PIE.htc); }
+.a4{position: relative; behavior: url(js/PIE.htc); }
+.google_map{position: relative; behavior: url(js/PIE.htc); }
